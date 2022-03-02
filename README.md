@@ -6,10 +6,11 @@
 ##
 <div align="center">
   <a href="https://github.com/im-mhid">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=im-mhid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-mhid&layout=compact&langs_count=7&theme=dracula"/></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=im-mhid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-mhid&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
-<div align="center">
+<div align="center"><br>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -17,7 +18,7 @@
 
 ##
 <div align="center">
-  You can find me in: <br>
+  <p style="color: #ffffff; text-decoration:none;">You can find me in:</p> <br>
   <a href="https://instagram.com/im_mhid" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:hmatheus031@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/im-mhid" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
