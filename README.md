@@ -1,6 +1,6 @@
 ## Hi! I'm Matheus Dias
 - 👀 I’m interested in Fullstack and Mobile Development
-- 🌱 Currently learning HTML, CSS and Javascript
+- 🌱 Currently learning HTML, CSS, Javascript and Java
 - 😄 Pronouns: he/him
 
 ##
