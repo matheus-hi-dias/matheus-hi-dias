@@ -1,6 +1,7 @@
 ## Hi! I'm Matheus Dias
 - 👀 I’m interested in Fullstack and Mobile Development
-- 🌱 Currently learning HTML, CSS, Javascript and Java
+- 🌱 Currently learning React, React Native and Java
+- 💻 Working with React and React Native
 - 😄 Pronouns: he/him
 
 ##
