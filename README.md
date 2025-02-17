@@ -8,13 +8,35 @@
 - <strong>Multiclínica Mais Saúde</strong> – Fullstack development of applications using Next.js, NestJS, MariaDB, and SQL Server, integrating diverse architectures to enhance healthcare management efficiency.
 - <strong>Gestor Fiscal</strong> – A financial management system for accounting, developed as an academic project using NestJS, Next.js, Prisma, and PostgreSQL.
 
-##
+## 🚀 My GitHub Stats
 
 <div align="center">
   <a href="https://github.com/matheus-hi-dias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-hi-dias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hi-dias&layout=compact&langs_count=7&theme=dracula"/>
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=matheus-hi-dias&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" 
+        media="(prefers-color-scheme: light)" 
+      />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=matheus-hi-dias&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" 
+        alt="GitHub Stats"
+      />
+    </picture>
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hi-dias&layout=compact&langs_count=7&theme=transparent&hide_border=true" 
+        media="(prefers-color-scheme: light)" 
+      />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-hi-dias&layout=compact&langs_count=7&theme=transparent&hide_border=true" 
+        alt="Top Languages"
+      />
+    </picture>
+  </a>
 </div>
+
+
+
     
 ## 🛠️ Tech Stack
 <div style="display: inline_block" align="left"><br>
