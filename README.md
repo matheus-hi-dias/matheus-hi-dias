@@ -14,11 +14,11 @@
   <a href="https://github.com/matheus-hi-dias">
     <picture>
       <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=matheus-hi-dias&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" 
+        srcset="https://github-readme-stats.vercel.app/api?username=matheus-hi-dias&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" 
         media="(prefers-color-scheme: light)" 
       />
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=matheus-hi-dias&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" 
+        src="https://github-readme-stats.vercel.app/api?username=matheus-hi-dias&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" 
         alt="GitHub Stats"
       />
     </picture>
